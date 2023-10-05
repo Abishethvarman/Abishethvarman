@@ -1,20 +1,22 @@
 # Hi there! <img src="https://c.tenor.com/eYRNL1In-ooAAAAM/namaste-covid.gif" width="50px">
+<a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>  
+
+<br>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&lines=I'm +a+Software+Engineer;I'm +a+DevOps+Engineer;I'm +a+Machine+Learning+Enthusiastic;I'm +a+Undergraduate+Researcher;Always+a+learner;Never+Stop+Learning;" alt="Typing SVG" /></a>
+</div> 
+<br>
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### 🚀 About Me
 
-🎓 I am Abishethvarman V currently pursuing Bsc. Special in Information Systems in [Sabaragamuwa University of Sri Lanka](https://www.sab.ac.lk/). Also Im very much interested on the React Js. So I follow the MERN stack for my technical knowledge. 
-
-<!-- ## 🏅 Achievements
-
-
-## 🛠️ Skills -->
+🎓 I am Abishethvarman V currently pursuing Bsc. Honours in Computing & Information Systems in [Sabaragamuwa University of Sri Lanka](https://www.sab.ac.lk/). Also Im very much interested versatlity in computing. 
 
 ### Languages
 
-
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![dart](https://img.shields.io/badge/Dart-28B6F6?style=for-the-badge&logo=dart&logoColor=white)
+![java](https://img.shields.io/badge/Java-28B6F6?style=for-the-badge&logo=java&logoColor=F7DF1E)
 
 
 ### Front-End Development
@@ -73,8 +75,8 @@
 </div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abishethvarman&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![Abishethvarman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abishethvarman&show_icons=true&theme=radical)
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abishethvarman&bg_color=0d1117&color=878787&line=4c8ed9&point=878787&area=true&hide_border=true)
+![Abishethvarman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abishethvarman&show_icons=true&theme=radical) 
+![Abishethvarman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abishethvarman&bg_color=141321&color=FE428E&line=4c8ed9&point=A9FEF7&area=true&hide_border=true)
 
 ## 🔗 Links 
 
