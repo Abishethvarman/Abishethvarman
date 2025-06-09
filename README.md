@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abishethvarman</h1>
 <h3 align="center">Never Stop Learning</h3>
+<h4 align="justify">Backend Java Developer with hands-on experience in JavaScript and Python for machine learning tasks. Skilled in Spring Boot and familiar with all major databases. Currently exploring DevOps practices to build scalable, efficient systems.</h4>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=abishethvarman&label=Profile%20views&color=0e75b6&style=flat" alt="abishethvarman" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abishethvarman" alt="abishethvarman" />
-  </a>
-</p>
+
 
 <p align="left">
   <a href="https://twitter.com/im_warman" target="blank">
@@ -71,6 +68,11 @@
 </p>
 
 ---
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=abishethvarman&column=3&margin-w=15&margin-h=15" alt="abishethvarman" />
+  </a>
+</p>
 
 ### 📊 GitHub Stats
 <p align="left">
