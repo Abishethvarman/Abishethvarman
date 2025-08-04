@@ -98,7 +98,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abishethvarman)](https://github.com/abishethvarman/github-readme-stats) -->
 
 ## TryHackMe
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5377940" style='border:none;'></iframe>
+![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5377940)
+
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abishethvarman)](https://git.io/streak-stats) -->
 ## 💻 HacktoberFest
 
@@ -233,4 +234,5 @@
 -->
 <br>
 </p>
+
 
