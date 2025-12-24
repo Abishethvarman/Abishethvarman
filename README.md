@@ -79,6 +79,13 @@
 ![Abishethvarman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abishethvarman&bg_color=141321&color=FE428E&line=4c8ed9&point=A9FEF7&area=true&hide_border=true)
 ![Contribution snake example](https://github.com/abishethvarman/abishethvarman/blob/output/github-contribution-grid-snake.svg)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abshethvarman/abshethvarman/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abshethvarman/abshethvarman/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/abshethvarman/abshethvarman/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 ## 🔗 Links 
 
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)]()
@@ -236,6 +243,7 @@
 -->
 <br>
 </p>
+
 
 
 
