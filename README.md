@@ -80,9 +80,9 @@
 ![Contribution snake example](https://github.com/abishethvarman/abishethvarman/blob/output/github-contribution-grid-snake.svg)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abshethvarman/abshethvarman/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abshethvarman/abshethvarman/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/abshethvarman/abshethvarman/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abishethvarman/abishethvarman/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abishethvarman/abishethvarman/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/abishethvarman/abishethvarman/output/github-contribution-grid-snake.svg">
 </picture>
 
 
@@ -243,6 +243,7 @@
 -->
 <br>
 </p>
+
 
 
 
